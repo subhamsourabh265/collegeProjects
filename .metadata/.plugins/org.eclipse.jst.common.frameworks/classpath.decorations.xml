@@ -1,0 +1,7 @@
+<classpath>
+  <container id="OnlineBankingSystems!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="/OnlineBankingSystems/WebContent/WEB-INF/classes">
+      <source-attachment-path>/OnlineBankingSystems/WebContent/WEB-INF</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

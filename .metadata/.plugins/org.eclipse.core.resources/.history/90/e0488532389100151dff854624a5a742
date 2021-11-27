@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>MyLogin Page</title>
+</head>
+<body bgcolor = "navy blue">
+<center><br><br><br>
+<font size=7 color=white>
+<marquee>Welcome to Online Leather Shop</marquee><br><br><br><br>
+</font>
+<form name = "myform">
+<font size=3 color=white>
+                       Mail Id   :          <input type = text name = id ><br><br>
+
+     Password :<input type = password name = pword ><br><br></font>
+                            <input type=submit value=Go><br><br>
+<a href="registration.html"><font size=4 color=white>Create an Account</a><br><br>
+</font>
+<a href="homepage.html"><font size=4 color=white>Search Products</a>
+</font>
+</form>
+</center>
+</body>
+</html>

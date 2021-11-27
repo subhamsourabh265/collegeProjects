@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Online Learning</title>
+
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="header">
+<div id="logo"><a href="#"><img src="images/logo1.png" title="Learning Store" alt="Learning Store" border="0" height="155" width="262" /></a></div>
+<ul class="cart">
+<li><span>Shopping Cart:</span> 0 items</li>
+</ul>
+<ul class="lang">
+<li>
+<a href="admin_login.html"><img src="images/btn_admin.png" width="100" height="25" alt=""/></a> </li>
+</ul>
+<ul class="currency">
+<li class="uimag"> 
+<a href="user_login.html"><img src="images/btn_userlog.jpg" width="100" height="25" alt=""/> </a>
+</li>
+<li class="fbimage">
+<a href="facebook.com"><img src="images/btn_fb.jpg" width="30" height="25" alt=""/></a>
+</li>
+<li class="twimage">
+<a href="#"><img src="images/btn_tw.jpg" width="30" height="25" alt=""/></a>
+</li>
+</ul>
+<ul class="menu">
+<li class="home"><a href="index.html" title="Home Page">Home</a></li>
+<li class="line"></li>
+<li class="new"><a href="#" title="New Products">New</a></li>
+<li class="line"></li>
+<li class="specials"><a href="#" title="Specials">specials</a></li>
+<li class="line"></li>
+<li class="account"><a href="#" title="My Account">Account</a></li>
+<li class="line"></li>
+<li class="contact"><a href="#" title="Contact Us">Contacts</a></li>
+</ul>
+</div>
+<div id="content">
+<div id="leftPan">
+<div id="categories">
+<h2></h2>
+<ul>
+ <li><a href="index.html">Home</a></li>
+ <li><a href="reg.html">Bollywood Songs</a></li>
+ <li><a href="reg.html">Pop & Remix</a></li>
+ <li><a href="reg.html">Bhangra</a></li>
+ <li><a href="reg.html">Ghazals</a></li>
+ <li><a href="reg.html">Artists</a></li>
+ <li><a href="reg.html">Wedding</a></li>
+ <li><a href="reg.html">Singles</a></li>
+ <li><a href="reg.html">Hollywood Songs</a></li>
+</ul>
+</div>
+</div>
+<div id="middlePan">
+<!-- PROD 1 -->
+<div class="prod">
+<div class="prodimg"><a href="#"><img src="images/HAK.jpg" alt="" border="0" height="123" width="119" /></a></div>
+<div class="txt">
+<p><a href="music/HAK.mp3">Hamari Adhuri Kahaani</a><br />
+Arijit Singh<br />
+<br />
+</p>
+</div>
+<div class="price">
+<p>Free</p>
+</div>
+<div class="imag"> 
+<a href="music/HAK.mp3"><img src="images/download.jpg" width="78" height="18" alt=""/></a>
+</div>
+<div class="action">
+	<audio controls="controls">
+	<source src="music/HAK.mp3" type="audio/mpeg">
+</audio>
+</div>
+</div>
+<!-- PROD 2 -->
+<div class="prod">
+<div class="prodimg"><a href="#"><img src="images/Mata_Ka_Email.jpg" alt="" border="0" height="123" width="119" /></a></div>
+<div class="txt">
+<p><a href="music/Mata_Ka_Email.mp3">Mata Ka Email</a><br />
+Subhash Kapoor & Gajendra Phogat<br />
+<br/>
+</p>
+</div>
+<div class="price">
+<p>Free</p>
+</div>
+<div class="imag"> 
+<a href="music/Mata_Ka_Email.mp3"><img src="images/download.jpg" width="78" height="18" alt=""/></a>
+</div>
+<div class="action">
+	<audio controls="controls">
+	<source src="music/Mata_Ka_Email.mp3" type="audio/mpeg">
+</audio>
+</div>
+</div>
+<!-- PROD 3 -->
+<div class="prodlast">
+<div class="prodimg"><a href="#"><img src="images/aashiqui2.jpg" alt="" border="0" height="123" width="119" /></a></div>
+<div class="txt">
+<p><a href="music/tum_hi_ho.mp3">Tum Hi Ho</a><br />
+Arijit Singh<br />
+<br/>
+</p>
+</div>
+<div class="price">
+<p>Free</p>
+</div>
+<div class="imag"> 
+<a href="music/tum_hi_ho.mp3"><img src="images/download.jpg" width="78" height="18" alt=""/></a>
+</div>
+<div class="action">
+	<audio controls="controls">
+	<source src="music/tum_hi_ho.mp3" type="audio/mpeg">
+</audio>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="mov_img">
+<marquee onmouseover="stop();" onmouseout="start();">
+<img src="image_links/CoverLP.jpg" width="123" height="119" alt=""/>
+<img src="image_links/A2.jpg" width="123" height="119" alt=""/>
+<img src="image_links/Covergd.jpg" width="123" height="119" alt=""/>
+<img src="image_links/CoverLPR.jpg" width="123" height="119" alt=""/>
+<img src="image_links/ABCD_2.jpg" width="123" height="119" alt=""/>
+<img src="image_links/Barfi.jpg" width="123" height="119" alt=""/>
+<img src="image_links/Bilal Seed.jpg" width="123" height="119" alt=""/>
+<img src="image_links/Blood Money.jpg" width="123" height="119" alt=""/>
+<img src="image_links/Bollywood_Unwind.jpg" width="123" height="119" alt=""/>
+<img src="image_links/Cocktail.jpg" width="123" height="119" alt=""/>
+<img src="image_links/Cover.jpg" width="123" height="119" alt=""/>
+<img src="image_links/Cover1.jpg" width="123" height="119" alt=""/>
+<img src="image_links/CoverAS.jpg" width="123" height="119" alt=""/>
+<img src="image_links/CoverSAL.jpg" width="123" height="119" alt=""/>
+</marquee>
+</div>
+
+<div id="footer">
+<img src="images/cards.jpg" alt="" height="20" width="141" />
+<p><a href="#">HOME</a> | <a href="#">ABOUT
+US</a> | <a href="#">SERVICES</a> | <a href="#">PRODUCTS</a> | <a href="#">SUPPORT
+INFO</a> | <a href="#">NEWS &amp; EVENTS</a>
+| <a href="#">CONTACTS</a><br />
+Copyright © Om Music Store. Designed by <a href="">RUSS</a><img src="images/btn_fbtw.jpg" width="450" height="112" alt=""/></p>
+<p><a href="">Supported by </a><a href="" target="_blank">ommusicstore.com</a></p>
+</div>
+</body></html>

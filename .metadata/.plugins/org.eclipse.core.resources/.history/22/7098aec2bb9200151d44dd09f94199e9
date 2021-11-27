@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Authorisation Page</title>
+</head>
+<body background="F:\IMAGES\wallpaper\library\library.jpg"><br>
+<font color="blue" size = 5>
+<center>
+<h1><marquee> WELCOME   TO   ONLINE   BANK</marquee></h1>
+</font>
+<a  href =  "login.html" > <font size=10 color = "white">ENTER   THE   BANK </a></font>
+<br><br><br>
+<b>NEW  USER...?</b>
+<a  href =  "registration.html" > <font size=7 color = "white">PLZ  REGISTER  HERE </a></font>
+</center>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:OnlineBankingSystem" serverId="Tomcat v7.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:LeatherShop" serverId="Tomcat v7.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:OnlineLearning" serverId="Tomcat v8.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:OnlineBanking" serverId="Tomcat v7.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:OnlineLibrary" serverId="Tomcat v7.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:OnlineLearningResourceMgmtSystem" serverId="Tomcat v8.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:OnlineBookShop" serverId="Tomcat v7.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:OnlineLearning1" serverId="Tomcat v7.0 Server at localhost (2)"/>
+  <module moduleId="org.eclipse.jst.jee.server:OnlineBankingSystems" serverId="Tomcat v7.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:E-learning" serverId="Tomcat v8.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:OnlineLeatherShop" serverId="Tomcat v7.0 Server at localhost"/>
+</modules>

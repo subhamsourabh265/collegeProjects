@@ -1,0 +1,37 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<script type="text/javascript">
+</script>
+<title>User Profile</title>
+</head>
+<body background="F:\IMAGES\wallpaper\pmb_abstract_green_aurora__generatedPreview.jpg"><br>
+<font color = white size = 7>
+<marquee><b>WELCOME   TO  LEATHER  PRODUCT  SHOP</b></marquee>
+</font>
+<form action="login" method="post">
+
+<pre>
+<center>
+<mid>
+<font color="white" size = 7>
+
+Select User:-<select name="user" selected = "member">
+<option selected>Select User</option>
+<option value="admin">ADMINISTRATOR</option>
+
+<option value="member">MEMBER</option></select><br>
+User Id:- <input type="text" name="n1"><br>
+Password:- <input type="password" name="n2"><br>
+                 <input type="submit" value="LOGIN"><br>              
+    <a href="registration.html"><b>New user .. Create an Account</b></a>
+</font>
+</mid>
+</center>
+</font>
+</pre>
+</form>
+</body>
+</html>

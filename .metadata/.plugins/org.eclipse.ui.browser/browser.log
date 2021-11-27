@@ -1,0 +1,378 @@
+
+Oct 13, 2015 20:32:49.50 NEW SESSION
+Oct 13, 2015 20:32:49.50 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Oct 13, 2015 20:32:49.51 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Nov 07, 2015 12:39:10.76 NEW SESSION
+Nov 07, 2015 12:39:10.76 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 07, 2015 12:39:10.76 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Nov 30, 2015 09:25:24.81 NEW SESSION
+Nov 30, 2015 09:25:24.81 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 09:25:24.86 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 09:36:23.47 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 09:36:23.47 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 09:36:33.81 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 09:36:33.81 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Nov 30, 2015 11:48:51.51 NEW SESSION
+Nov 30, 2015 11:48:51.51 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 11:48:51.57 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 11:50:16.50 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 11:50:16.50 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 11:50:30.21 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 11:50:30.21 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Nov 30, 2015 15:47:05.15 NEW SESSION
+Nov 30, 2015 15:47:05.18 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 15:47:05.22 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 15:52:07.42 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 15:52:07.42 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 15:53:04.76 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 15:53:04.76 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:34:01.16 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:34:01.20 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Nov 30, 2015 16:45:12.87 NEW SESSION
+Nov 30, 2015 16:45:12.87 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:45:12.87 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:45:17.18 *************************
+Nov 30, 2015 16:45:17.18 A coding exception was thrown and uncaught in a Task.
+Nov 30, 2015 16:45:17.18 
+Nov 30, 2015 16:45:17.18 Full message: TypeError: OS is null
+Nov 30, 2015 16:45:17.18 Full stack: exports.IO.writeToFile/<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/io.js:236:9
+Nov 30, 2015 16:45:17.18 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+Nov 30, 2015 16:45:17.18 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Nov 30, 2015 16:45:17.18 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Nov 30, 2015 16:45:17.18 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Nov 30, 2015 16:45:17.19 Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:464:9
+Nov 30, 2015 16:45:17.19 
+Nov 30, 2015 16:45:17.19 *************************
+Nov 30, 2015 16:45:17.19 *************************
+Nov 30, 2015 16:45:17.19 A coding exception was thrown in a Promise rejection callback.
+Nov 30, 2015 16:45:17.19 See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+Nov 30, 2015 16:45:17.19 
+Nov 30, 2015 16:45:17.19 Full message: TypeError: Cr is null
+Nov 30, 2015 16:45:17.19 Full stack: exports.ElemHide.apply/<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/elemHide.js:245:11
+Nov 30, 2015 16:45:17.19 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:870:21
+Nov 30, 2015 16:45:17.19 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Nov 30, 2015 16:45:17.19 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Nov 30, 2015 16:45:17.19 Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:464:9
+Nov 30, 2015 16:45:17.19 
+Nov 30, 2015 16:45:17.21 *************************
+Nov 30, 2015 16:45:43.56 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:45:43.56 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:46:51.27 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:46:51.29 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:48:46.53 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:48:46.53 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:49:12.44 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:49:12.44 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:49:16.51 *************************
+Nov 30, 2015 16:49:16.51 A coding exception was thrown and uncaught in a Task.
+Nov 30, 2015 16:49:16.51 
+Nov 30, 2015 16:49:16.51 Full message: TypeError: OS is null
+Nov 30, 2015 16:49:16.51 Full stack: exports.IO.writeToFile/<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/io.js:236:9
+Nov 30, 2015 16:49:16.51 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+Nov 30, 2015 16:49:16.51 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Nov 30, 2015 16:49:16.51 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Nov 30, 2015 16:49:16.51 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Nov 30, 2015 16:49:16.51 Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:464:9
+Nov 30, 2015 16:49:16.51 
+Nov 30, 2015 16:49:16.51 *************************
+Nov 30, 2015 16:49:16.51 *************************
+Nov 30, 2015 16:49:16.51 A coding exception was thrown in a Promise rejection callback.
+Nov 30, 2015 16:49:16.51 See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+Nov 30, 2015 16:49:16.53 
+Nov 30, 2015 16:49:16.53 Full message: TypeError: Cr is null
+Nov 30, 2015 16:49:16.53 Full stack: exports.ElemHide.apply/<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/elemHide.js:245:11
+Nov 30, 2015 16:49:16.53 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:870:21
+Nov 30, 2015 16:49:16.54 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Nov 30, 2015 16:49:16.54 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Nov 30, 2015 16:49:16.54 Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:464:9
+Nov 30, 2015 16:49:16.54 
+Nov 30, 2015 16:49:16.54 *************************
+Nov 30, 2015 16:49:21.57 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:49:21.57 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:54:07.29 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 16:54:07.29 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Nov 30, 2015 17:12:57.75 NEW SESSION
+Nov 30, 2015 17:12:57.75 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 17:12:57.75 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 17:31:47.77 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 17:31:47.83 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 17:41:54.23 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 17:41:54.23 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Nov 30, 2015 18:16:29.72 NEW SESSION
+Nov 30, 2015 18:16:29.72 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 18:16:30.25 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 18:30:19.40 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 18:30:19.60 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 18:30:45.98 *************************
+Nov 30, 2015 18:30:48.29 A coding exception was thrown and uncaught in a Task.
+Nov 30, 2015 18:30:48.65 
+Nov 30, 2015 18:30:48.65 Full message: TypeError: OS is null
+Nov 30, 2015 18:30:48.76 Full stack: exports.IO.writeToFile/<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/io.js:236:9
+Nov 30, 2015 18:30:48.80 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+Nov 30, 2015 18:30:48.84 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Nov 30, 2015 18:30:48.84 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Nov 30, 2015 18:30:48.96 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Nov 30, 2015 18:30:48.96 
+Nov 30, 2015 18:30:48.96 *************************
+Nov 30, 2015 18:30:49.05 *************************
+Nov 30, 2015 18:30:49.05 A coding exception was thrown in a Promise rejection callback.
+Nov 30, 2015 18:30:49.07 See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+Nov 30, 2015 18:30:49.19 
+Nov 30, 2015 18:30:49.29 Full message: TypeError: Cr is null
+Nov 30, 2015 18:30:49.29 Full stack: exports.ElemHide.apply/<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/elemHide.js:245:11
+Nov 30, 2015 18:30:49.29 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:870:21
+Nov 30, 2015 18:30:49.30 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Nov 30, 2015 18:30:49.30 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Nov 30, 2015 18:30:49.41 
+Nov 30, 2015 18:30:49.41 *************************
+Nov 30, 2015 18:34:12.97 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 18:34:12.97 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 18:34:28.13 *************************
+Nov 30, 2015 18:34:28.13 A coding exception was thrown and uncaught in a Task.
+Nov 30, 2015 18:34:28.13 
+Nov 30, 2015 18:34:28.13 Full message: TypeError: Filter is null
+Nov 30, 2015 18:34:28.17 Full stack: INIParser.prototype.process@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/filterStorage.js:789:9
+Nov 30, 2015 18:34:28.17 exports.IO.readFromFile/onProgress@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/io.js:97:15
+Nov 30, 2015 18:34:28.24 exports.IO.readFromFile/<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/io.js:182:11
+Nov 30, 2015 18:34:28.24 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+Nov 30, 2015 18:34:28.25 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Nov 30, 2015 18:34:28.25 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Nov 30, 2015 18:34:28.25 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Nov 30, 2015 18:34:28.25 
+Nov 30, 2015 18:34:28.28 *************************
+Nov 30, 2015 18:34:28.28 *************************
+Nov 30, 2015 18:34:28.28 A coding exception was thrown in a Promise rejection callback.
+Nov 30, 2015 18:34:28.36 See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+Nov 30, 2015 18:34:28.36 
+Nov 30, 2015 18:34:28.36 Full message: TypeError: Cu is null
+Nov 30, 2015 18:34:28.36 Full stack: exports.FilterStorage.loadFromDisk/readFile</<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/filterStorage.js:385:11
+Nov 30, 2015 18:34:28.36 exports.IO.readFromFile/onError@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/io.js:149:9
+Nov 30, 2015 18:34:28.36 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:870:21
+Nov 30, 2015 18:34:28.36 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Nov 30, 2015 18:34:28.36 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Nov 30, 2015 18:34:28.36 
+Nov 30, 2015 18:34:28.36 *************************
+Nov 30, 2015 18:34:45.66 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 18:34:45.66 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Nov 30, 2015 21:08:21.76 NEW SESSION
+Nov 30, 2015 21:08:21.76 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 21:08:21.82 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 21:32:48.65 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 21:32:50.36 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Nov 30, 2015 22:58:25.68 NEW SESSION
+Nov 30, 2015 22:58:25.68 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 22:58:25.72 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 22:58:30.56 *************************
+Nov 30, 2015 22:58:30.56 A coding exception was thrown and uncaught in a Task.
+Nov 30, 2015 22:58:30.56 
+Nov 30, 2015 22:58:30.56 Full message: TypeError: OS is null
+Nov 30, 2015 22:58:30.56 Full stack: exports.IO.writeToFile/<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/io.js:236:9
+Nov 30, 2015 22:58:30.56 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+Nov 30, 2015 22:58:30.56 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Nov 30, 2015 22:58:30.56 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Nov 30, 2015 22:58:30.56 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Nov 30, 2015 22:58:30.56 Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:464:9
+Nov 30, 2015 22:58:30.56 
+Nov 30, 2015 22:58:30.56 *************************
+Nov 30, 2015 22:58:30.56 *************************
+Nov 30, 2015 22:58:30.56 A coding exception was thrown in a Promise rejection callback.
+Nov 30, 2015 22:58:30.56 See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+Nov 30, 2015 22:58:30.56 
+Nov 30, 2015 22:58:30.56 Full message: TypeError: Cr is null
+Nov 30, 2015 22:58:30.57 Full stack: exports.ElemHide.apply/<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/elemHide.js:245:11
+Nov 30, 2015 22:58:30.57 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:870:21
+Nov 30, 2015 22:58:30.57 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Nov 30, 2015 22:58:30.57 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Nov 30, 2015 22:58:30.57 Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:464:9
+Nov 30, 2015 22:58:30.57 
+Nov 30, 2015 22:58:30.57 *************************
+Nov 30, 2015 23:05:00.56 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Nov 30, 2015 23:05:00.56 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 01, 2015 08:07:36.61 NEW SESSION
+Dec 01, 2015 08:07:36.61 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 08:07:36.65 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 08:11:20.52 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 08:11:20.56 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 08:16:59.45 I/SampleTable( 1444): There are reordered frames present.
+Dec 01, 2015 08:18:40.46 I/SampleTable( 1444): There are reordered frames present.
+Dec 01, 2015 08:19:28.11 I/SampleTable( 1444): There are reordered frames present.
+Dec 01, 2015 08:19:28.11 W/MPEG4Extractor( 1444): Error -1004 parsing chuck at offset 37349 looking for first track
+Dec 01, 2015 08:19:28.12 I/SampleTable( 1444): There are reordered frames present.
+
+Dec 01, 2015 11:38:33.94 NEW SESSION
+Dec 01, 2015 11:38:33.94 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 11:38:33.94 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 01, 2015 12:51:07.39 NEW SESSION
+Dec 01, 2015 12:51:07.39 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 12:51:07.42 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 01, 2015 14:49:26.97 NEW SESSION
+Dec 01, 2015 14:49:26.97 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 14:49:26.98 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 15:01:27.11 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 15:01:27.11 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 01, 2015 15:26:43.65 NEW SESSION
+Dec 01, 2015 15:26:43.65 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 15:26:43.67 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 15:34:52.70 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 15:34:52.70 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 15:51:32.27 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 15:51:32.29 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 16:34:33.34 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 16:34:33.39 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 01, 2015 16:45:38.57 NEW SESSION
+Dec 01, 2015 16:45:38.57 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 16:45:38.57 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 01, 2015 20:22:31.32 NEW SESSION
+Dec 01, 2015 20:22:31.32 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 20:22:31.34 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 20:44:36.61 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 20:44:36.61 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 01, 2015 21:48:21.40 NEW SESSION
+Dec 01, 2015 21:48:21.42 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 01, 2015 21:48:21.42 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 02, 2015 24:18:47.09 NEW SESSION
+Dec 02, 2015 24:18:47.09 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 24:18:47.11 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 24:42:31.13 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 24:42:31.13 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 24:43:32.56 *************************
+Dec 02, 2015 24:43:32.58 A coding exception was thrown in a Promise resolution callback.
+Dec 02, 2015 24:43:32.58 See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+Dec 02, 2015 24:43:32.58 
+Dec 02, 2015 24:43:32.58 Full message: TypeError: IO is null
+Dec 02, 2015 24:43:32.58 Full stack: exports.FilterStorage.saveToDisk/checkBackupRequired</<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/filterStorage.js:598:13
+Dec 02, 2015 24:43:32.58 onSuccess@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/bootstrap.js -> jar:file:///C:/Users/Sourabh/AppData/Roaming/Mozilla/Firefox/Profiles/vebq4rq5.default/extensions/%7Bd10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d%7D.xpi!/lib/io.js:306:1
+Dec 02, 2015 24:43:32.58 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Dec 02, 2015 24:43:32.58 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Dec 02, 2015 24:43:32.58 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Dec 02, 2015 24:43:32.58 
+Dec 02, 2015 24:43:32.58 *************************
+
+Dec 02, 2015 24:46:47.00 NEW SESSION
+Dec 02, 2015 24:46:47.00 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 24:46:47.02 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 02, 2015 24:55:18.17 NEW SESSION
+Dec 02, 2015 24:55:18.17 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 24:55:18.23 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 02, 2015 01:00:03.63 NEW SESSION
+Dec 02, 2015 01:00:03.63 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 01:00:03.63 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 02, 2015 04:48:33.32 NEW SESSION
+Dec 02, 2015 04:48:33.32 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 04:48:33.34 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 04:49:06.86 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 04:49:06.87 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 02, 2015 09:44:42.44 NEW SESSION
+Dec 02, 2015 09:44:42.44 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 09:44:42.46 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 09:46:47.63 1449029807645	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Dec 02, 2015 09:46:47.88 1449029807889	addons.update-checker	WARN	Update manifest for WebProtection@360safe.com did not contain an updates property
+Dec 02, 2015 09:58:21.34 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 09:58:21.34 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 02, 2015 11:32:41.25 NEW SESSION
+Dec 02, 2015 11:32:41.25 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 11:32:41.27 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 02, 2015 15:18:56.39 NEW SESSION
+Dec 02, 2015 15:18:56.39 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 02, 2015 15:18:56.40 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 03, 2015 07:00:09.82 NEW SESSION
+Dec 03, 2015 07:00:09.83 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:00:09.88 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:02:35.50 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:02:35.58 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:08:47.68 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:08:47.68 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:11:44.91 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:11:44.99 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:22:45.33 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:22:45.44 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:32:04.75 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:32:04.75 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 03, 2015 07:37:55.21 NEW SESSION
+Dec 03, 2015 07:37:55.21 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:37:55.21 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:38:13.37 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 07:38:13.38 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Dec 03, 2015 10:55:54.15 NEW SESSION
+Dec 03, 2015 10:55:54.15 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 10:55:54.19 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Dec 03, 2015 11:00:10.95 1449120609674	addons.repository	WARN	Search failed when repopulating cache
+Dec 03, 2015 11:00:11.03 1449120611008	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Dec 03, 2015 11:00:11.03 1449120611009	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Dec 03, 2015 11:00:11.03 1449120611010	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Dec 03, 2015 11:00:11.03 1449120611011	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+
+Feb 18, 2016 17:26:42.18 NEW SESSION
+Feb 18, 2016 17:26:42.18 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Feb 18, 2016 17:26:42.20 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Feb 18, 2016 17:28:36.15 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Feb 18, 2016 17:28:36.15 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+Apr 28, 2016 23:23:34.63 NEW SESSION
+Apr 28, 2016 23:23:34.63 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+Apr 28, 2016 23:23:34.65 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+May 02, 2016 03:11:41.28 NEW SESSION
+May 02, 2016 03:11:41.28 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 02, 2016 03:11:41.33 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 02, 2016 03:13:18.77 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 02, 2016 03:13:18.78 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+May 12, 2016 11:53:38.78 NEW SESSION
+May 12, 2016 11:53:38.78 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 12, 2016 11:53:38.81 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+May 12, 2016 13:31:03.64 NEW SESSION
+May 12, 2016 13:31:03.64 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 12, 2016 13:31:03.66 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+May 15, 2016 16:16:52.70 NEW SESSION
+May 15, 2016 16:16:52.70 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 15, 2016 16:16:52.71 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+May 17, 2016 14:16:19.37 NEW SESSION
+May 17, 2016 14:16:19.37 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 17, 2016 14:16:19.39 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 17, 2016 14:26:19.58 1463475379590	addons.repository	WARN	Search failed when repopulating cache
+May 17, 2016 14:26:19.91 1463475379925	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+May 17, 2016 14:26:19.91 1463475379926	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+May 17, 2016 14:26:19.91 1463475379927	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+May 17, 2016 14:26:19.92 1463475379931	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+
+May 18, 2016 10:46:27.33 NEW SESSION
+May 18, 2016 10:46:27.33 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 18, 2016 10:46:27.38 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+
+May 21, 2016 19:58:40.94 NEW SESSION
+May 21, 2016 19:58:40.94 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 21, 2016 19:58:40.95 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 21, 2016 20:00:39.36 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 21, 2016 20:00:39.38 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 21, 2016 20:02:30.35 [GFX1-]: Unexpected Intel/AMD dual-GPU setup
+May 21, 2016 20:02:30.35 [GFX1-]: Unexpected Intel/AMD dual-GPU setup

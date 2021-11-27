@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;OnlineLeather&apos;&#x0D;&#x0A;- Original project: &apos;OnlineLeather&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     OnlineLeather/src&#x0D;&#x0A;     OnlineLeather/src/mypkg&#x0D;&#x0A;     Connect1.java&#x0D;&#x0A;     Download.java&#x0D;&#x0A;     FileUploadHandler.java" description="Delete elements" element1="/src" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1446627041298" subPackages="false" version="1.0"/>
+</session>

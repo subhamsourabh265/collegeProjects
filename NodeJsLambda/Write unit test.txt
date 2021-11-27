@@ -1,0 +1,8 @@
+Steps to write unit test:
+
+ 1. Install 'mocha' and 'chai' using 'npm install mocha @types/mocha chai @types/chai --save-dev'
+ 2. Install ts-node to run tests directly, without manually compiling the Typescript first as
+    'npm install ts-node --save-dev'.
+ 3. Go to 'package.json' and change the test script as '"test": "mocha -r ts-node/register ./handlerTest.ts"'
+    to run the test easily.
+ 4. Run the test using 'npm test'.

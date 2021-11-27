@@ -1,0 +1,15 @@
+127.0.0.1 - - [02/May/2016:03:11:25 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:50 +0530] "GET /OnlineBankingSystems/index.html HTTP/1.1" 200 4752
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:55 +0530] "GET /OnlineBankingSystems/style.css HTTP/1.1" 200 4696
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:55 +0530] "GET /OnlineBankingSystems/images/bank2.jpg HTTP/1.1" 200 66631
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:55 +0530] "GET /OnlineBankingSystems/images/globe_16.gif HTTP/1.1" 200 5523
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:55 +0530] "GET /OnlineBankingSystems/images/globe_12.gif HTTP/1.1" 200 5690
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:58 +0530] "GET /OnlineBankingSystems/images/globe_06.jpg HTTP/1.1" 200 443
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:58 +0530] "GET /OnlineBankingSystems/images/globe_03.gif HTTP/1.1" 200 43705
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:58 +0530] "GET /OnlineBankingSystems/images/image_05.gif HTTP/1.1" 200 4337
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:58 +0530] "GET /OnlineBankingSystems/images/image_03.gif HTTP/1.1" 200 3869
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:58 +0530] "GET /OnlineBankingSystems/images/image_04.gif HTTP/1.1" 200 4497
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:58 +0530] "GET /OnlineBankingSystems/images/globe_05.jpg HTTP/1.1" 200 731
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:58 +0530] "GET /OnlineBankingSystems/images/bullet.png HTTP/1.1" 200 2967
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:59 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [02/May/2016:03:11:59 +0530] "GET /favicon.ico HTTP/1.1" 404 973

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body background = "E:\workspace2\LeatherShop\images\boconi-landing-banner.jpg">
+<B><center>
+<font size=5 color=white><br><br><br>
+
+<marquee><B>WELCOME TO LEATHER PRODUCTS SHOPPING</B></marquee>
+</font><br><br><br><br>
+<font size=4 color=white>Search For Leather Products</font>
+
+<input type = text name = text ><br><br><br>
+<input type=submit value=Search><br>
+</center>
+</body>
+</html>

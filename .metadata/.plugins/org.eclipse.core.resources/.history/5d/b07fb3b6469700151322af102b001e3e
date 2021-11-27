@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Authorisation Page</title>
+</head>
+<body><br>
+<div id="top_links">
+  
+
+<div id="header">
+	<h1>APANA - BANK<span class="style1"></span></h1>
+    <h2>ExtraOrdinary Service</h2>
+    	
+</div>
+
+<font color="blue" size = 5>
+<center>
+<img src = "images/globe_03.gif" ></img>
+<marquee><img src = "images/techno1.jpg"   width = 1000  height = 100></img></marquee>
+</font>
+<br><br><br><br><br><br><br>
+<a  href =  "index.html" > <font size=10 color = "white">ENTER   THE   BANK </a></font>
+<br><br><br><br><br><br><br><br><br><br>
+<a href = "mylogin.html" ><font size=10 color = "white">ADMINISTRATORS  AREA</a></font>
+</center>
+</body>
+</html>

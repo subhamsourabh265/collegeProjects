@@ -1,0 +1,16 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+    <body style="background-color:lightgray">
+    <center>
+    <font color="red">
+    
+    <a href="view1.jsp"><font size =7 color = red>CLICK HERE TO VIEW THE  CUSTOMER  DETAILS</a></font><br><br>
+    <a href="view1.jsp"><font size =7 color = red>CLICK HERE TO DE  </a></font><br><br>
+    <a href="view1.jsp"><font size =7 color = red>CLICK HERE TO VIEW THE  CUSTOMER  DETAILS</a></font><br><br>
+    </center>
+</body>
+</html>

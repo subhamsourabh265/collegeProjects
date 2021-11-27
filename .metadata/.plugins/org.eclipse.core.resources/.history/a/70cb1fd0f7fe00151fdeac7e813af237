@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+ <%@ include file="Connection.jsp" %>
+ <%@ page import="java.sql.*" %>
+<html>
+<head>
+<title>JOB Portal</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<%
+int flag=0;
+String u_id=request.getParameter("uname");
+String pass=request.getParameter("pass");
+System.out.println(u_id);
+session.setAttribute("x1",u_id);	
+PreparedStatement pst1=conn.prepareStatement("select uname,pass from empdetail where uname=?");
+pst1.setString(1, u_id);
+System.out.println(u_id);
+ResultSet rs=pst1.executeQuery();
+while(rs.next())
+{
+	String a=rs.getString(1);
+	String b=rs.getString(2);
+	//System.out.println(a);
+	//System.out.println(b);
+	if(u_id.equals(a) && (pass.equals(b)))
+	{
+		flag=1;
+	}
+	else
+	{
+		flag=0;
+	}
+	}
+if(flag==1)
+{
+	%>
+		  <jsp:forward page="emp_home.jsp" />
+	<%
+}
+else
+{
+	%>
+		  <jsp:forward page="emperr_log.html"></jsp:forward>
+	 <%
+}
+
+%>			
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>REGISTRATION PAGE</title>
+</head>
+<body bgcolor = "green">
+
+<B>
+<center><br><br><br>
+<font size=7 color=black>
+       WELCOME  TO  REGISTRATION  PAGE</font><br><br><br>
+<form action = rege1  method = post>      
+<font  size=4 color="black">
+   Enter Username<input type="text" name="n1"><br><br>
+      Enter Address <input type="text" name="n2"><br><br>
+        Enter Phno <input type="text" name="n3"><br><br>
+Enter Mail Id            <input type="text" name="n4"><br><br>
+Password                 <input type="text" name="n5"><br>
+</font>
+</B><br><br>
+               <input type=submit value=SUBMIT>
+               </form> .
+               </center>
+
+</body>
+</html>

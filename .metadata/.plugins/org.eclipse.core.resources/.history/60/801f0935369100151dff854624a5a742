@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+    <body style="background-color:aqua"><br><br>
+    <center>
+    <font size=5>
+    <center><br>
+    
+    <a href="admin.jsp"><font  color="blue">View the Member Details</a></font><br><br><br>
+    
+    
+    <a href="bupload.html"><font color="blue">Upload the Products</a></font><br><br><br>
+    
+    
+    <a href="view2.jsp"><font color="blue">View The  Products Details</a></font><br><br><br>
+    </center>
+    </font>
+    </center>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<script type="text/javascript">
+</script>
+<title>ADMIN  LOGIN</title>
+</head>
+<body bgcolor=aqua><br>
+<center>
+<font color = darkblue size = 7>
+<marquee><b>TECHNO  INDIA  BANK</b></marquee>
+</font>
+<br><br><br><br><br>
+<form action="login" method="post">
+<font color="white" size = 7>
+User Id:- <input type="text" name="n1"><br>
+Password:- <input type="password" name="n2"><br>
+                 <input type="submit" value="LOGIN"><br>
+</form>      
+</font>
+</center>
+</body>
+</html>

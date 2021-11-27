@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+<div id = "card-image" style="text-align:center;"><img src="http://fex301-publish.adobesandbox.com/content/dam/content-fsi-app568/gold.jpg" id="image" height="500 px" width="60%"></div>
+
+<div id = "card-text" style="text-align:center;">
+    <span>GOLD CARD</span><br/><br/>
+    <span>CREDIT CARD</span>
+</div>
+<br/><br/><br/>
+<div id = "card-rate" style="text-align:center; width:500 px; height:100 px; border:2 px;">
+    <span>BUY FOR : APR 13.74%</span>
+</div>
+
+<script language="javascript" type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<script src="http://code.jquery.com/jquery-1.6.2.min.js"></script>
+ <script type="text/javascript">
+ 	 $(function(){
+                    $.ajax({
+                        type: "GET",
+                        xhrFields: {
+                            withCredentials: true
+                        },
+                        contentType: "application/json",
+                        url: "http://fex301-publish.adobesandbox.com/content/entities/content-fsi-app568/content/root/children/credit-cards/children/gold-card.caas.json" ,  
+                        crossDomain: true,                    
+                        success: function(data) {
+                            console.log('success');
+                            console.log(JSON.stringify(data));
+                            $("#image").attr("src", "http://fex301-publish.adobesandbox.com/"+data.content.imgSrc.path);
+                            $("#card-text").html(data.title);
+                            $("#card-rate").html("BUY FOR"+data.content.price)
+
+                           
+                        },
+                        username:'fex568',
+                        password:'S_af6epH'
+                    });
+    });
+</script>
+</body>
+</html>

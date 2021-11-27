@@ -1,0 +1,49 @@
+<%@ page import="java.sql.*"%>
+<%@include file="connect1.jsp" %>
+<%String username="",password="",repassword="",address="";
+int accountno ,oamount,phone;; 
+Statement pst=null;
+%>
+<table border="2">
+<tr>
+<td>accountno</td>
+<td>username</td>
+<td>password</td>
+<td>amount</td>
+<td>address</td>
+<td>phone</td>
+</tr>
+<body style="background-color:lightblue ">
+<% 
+try{
+pst=conn.createStatement();
+String a=request.getParameter("n1");
+out.println(a);
+ResultSet rs=pst.executeQuery("Select * from account where accountno="+a );
+while(rs.next())
+{
+accountno=rs.getInt(1);
+username=rs.getString(2);
+password=rs.getString(3);
+amount=rs.getInt(5);
+address=rs.getString(6);
+phone=rs.getInt(7);
+%>
+<tr><td><%=accountno%></td><br><br>
+<td><%=username%></td><br><br>
+<td><%=password%></td><br><br>
+<td><%=amount%></td><br><br>
+<td><%=address%></td><br><br>
+<td><%=phone%></td><br><br>
+</tr>
+<%}%>
+</table>
+<%
+rs.close();
+conn.close();
+}catch(Exception e){}
+%>
+   
+ </p>
+</form>
+</html>

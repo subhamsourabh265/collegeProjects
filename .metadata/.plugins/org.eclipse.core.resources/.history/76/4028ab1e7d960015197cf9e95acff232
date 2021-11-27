@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Authorisation Page</title>
+</head>
+<body background="F:\IMAGES\wallpaper\library\library.jpg"><br>
+<font color="blue" size = 5>
+<center>
+<h1><marquee> WELCOME   TO  TECHNO INDIA  BANK</marquee></h1>
+</font>
+<br><br><br><br><br><br><br>
+<a  href =  "login.html" > <font size=10 color = "white">ENTER   THE   BANK </a></font>
+<br><br><br><br><br><br><br><br><br><br>
+<a  href =  "registration.html" > <font size=7 color = "darkblue">NEW USER...? PLEASE  REGISTER  HERE </a></font>
+</center>
+</body>
+</html>

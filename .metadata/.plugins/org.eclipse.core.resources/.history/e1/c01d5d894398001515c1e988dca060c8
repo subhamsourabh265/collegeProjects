@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>ADMIN LOGIN</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+    <body>
+    <div id="top_links">
+  
+
+<div id="header">
+	<h1>TECHNO INDIA  BANK<span class="style1"></span></h1>
+    <h2>Online Service</h2>
+ </div>
+ <br><br><br><br><br><br>
+    <center>
+    <font color="red">
+     <a href="view1.jsp"><font size =6 color = white>CLICK HERE TO VIEW THE  CUSTOMER ACCOUNT  DETAILS</a></font><br><br>
+    </center>
+</body>
+</html>

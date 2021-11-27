@@ -1,0 +1,32 @@
+Steps to create and deploy lambda function:-
+
+1. To get started install node js from 'https://nodejs.org/en/download'.
+2. Go to cmd and install serverless framework using the command 'npm i serverless  -g'.
+3. create a new project using 'aws-nodejs-typescript' template:
+    -> mkdir NodeJsLambda && cd NodeJsLambda
+    -> serverless create --template aws-nodejs-typescript
+4. This will create new files in 'NodeJsLambda' folder- 'handler.ts', 'package-lock.json', 
+   'webpack.config.js', 'serverless.yml', 'package.json', 'tsconfig.json' and 1 folder i.e 'node_modules'.
+5. Then install webpack,serverless-webpack,typescript, ts-loader and aws-lambda:
+    -> npm install webpack
+    -> npm install serverless-webpack
+    -> npm install typescript
+    -> npm install ts-loader
+    -> npm install --save-dev @types/aws-lambda
+6. Go to 'handler.ts' and change the message to 'Hello world!'.
+7. **Invoke the function locally to see the service in action**:
+    -> "serverless invoke local -f hello"
+8. Configure serverless framework AWS credentials:
+    -> First sign in to AWS console. At the top right click on user name to toggle to the dropdown
+       and navigate to "My security credentials"
+    -> Create a new user "serverless-admim"
+    -> Give serverless-admin Programmatic-access.
+    -> Attach the AdministratorAccess policy
+9.  Now copy  copy the Access key ID and Secret access key for use in Serverless Framework configuration.
+10. Configure the Serverless Framework with your access keys using the serverless config credentials command:
+    ->'serverless serverless config credentials --provider aws --key ACCESS KEY --secret SECRET ACCESS KEY --profile serverless-admin'.
+11. Go to 'serverless.yml' and add one line in provider to ensure the profile for deployment as:
+     'profile: serverless-admin
+'.
+12. Now deploy the serverless framework using 'serverless deploy -v'.
+13. Now invoke the live service using "serverless invoke -f hello -l".
